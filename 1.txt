@@ -1,0 +1,101 @@
+9495525 
+
+UPDATE `buzz_blogs` set `starred` = 1 where `blogid` = 103;
+
+body {background-color: #000000;font-family: Tahoma;font-size: small;color:#ffffff;padding: 30px;    box-shadow:0px 0px 15px  #343434;
+        margin: 10px 10px 10px 10px;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;}
+
+	
+	SELECT `blogid`,`title`, `blogalias` FROM `buzz_blogs`
+WHERE `title` IN (
+SELECT `title`
+FROM `buzz_blogs`
+GROUP BY `title`
+HAVING (COUNT(`title` ) > 1)
+)
+ORDER BY `buzz_blogs`.`title` ASC
+
+
+SELECT *FROM `buzz_blogs`
+WHERE `blogalias` IN (
+SELECT `blogalias`
+FROM `buzz_blogs`
+GROUP BY `blogalias`
+HAVING (COUNT(`blogalias` ) > 1)
+) 
+
+1--Ánh trăng nói đã lãng quên.
+2--Bắt được rồi vợ ngốc.
+3--Thừa nhận đi cậu yêu tôi phải không.
+4-- Tôi không phải là công chúa.
+5--Yêu em từ cái nhìn đầu tiên.
+6--Hứa là sẽ bên cạnh tôi nhé đồ đáng ghét.
+7--Nhóc...tôi yêu em thật rồi.
+8--Hóa ra anh ở đây.
+9--Bà xã nghịch ngợm,em là của tôi.
+10--Bên nhau trọn đời.
+11--Đồ đầu gấu tôi yêu em.
+12--Oan ra ngõ hẹp.
+13--Đồ củ tỏi "anh thích em".
+14--Mình cùng yêu nhau em nhá.
+Trao lầm tình yêu cho anh
+Nếu Chỉ là thoáng qua
+Sẽ để e y a lần nữa.
+Trong bong bóng mùa hè
+yêu là phải điên cuồg chiếm đoạt
+vợ ơi,chào em
+
+
+<script language="javascript">
+var css;
+var d = new Date();
+if (d.getHours() > 17)
+{
+css = 'http://teenvn1x.wap.sh/wap/css/trangsang.css';
+}
+else{
+if (d.getHours() > 6)
+{
+css = 'http://teenVn1x.wap.sh/wap/css/denvp.css';
+}
+}
+if (d.getHours() < 6)
+{
+css = 'http://teenvn1x.wap.sh/wap/css/trangsang.css';
+}
+document.write('<link href="');
+document.write(css);
+document.write('" rel="stylesheet" type="text/css" />');
+</script>
+
+‘ ’
+[HTML]<a title="Blog truyện - Khoảng lặng" href="http://lang.name.vn" target="_blank"><strong><font style="color:#ff3366;" >Lang.Name.Vn</font></strong></a>[/HTML]
+[b][size=2][color="#4b0082"][font=tahoma]     Hợp tác tốt :D             [/font][/color][/size][/b]
+
+
+<div class="tieu"><embed src="http://www.nhaccuatui.com/m/4l1n0JWmvk" quality="high" wmode="transparent" type="application/x-shockwave-flash" flashvars="&autostart=true" width="100%" height="50"></div>
+
+<script type="text/javascript">
+function get_randomCssNum()
+{
+var ranCssNum= Math.floor(Math.random()*2);
+return ranCssNum;
+}
+
+function getaCss()
+{
+var whichCss=get_randomCssNum();
+
+var css=new Array(2)
+css[0]="<link rel='stylesheet' type='text/css' href='http://lang.name.vn/css/sty.css'>";
+css[1]="<link rel='stylesheet' type='text/css' href='http://lang.name.vn/css/st.css'>";
+return css[whichCss]
+}
+document.write(getaCss());
+</script>
+
+
+　 　 
