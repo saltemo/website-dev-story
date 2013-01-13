@@ -1,4 +1,4 @@
-<span class="sau" >Hạnh phúc mong manh * @copyright   (c)2012 sâu - gnu gpl  <a href="http://lang.name.vn" target="_blank">Sâu Site</a></span>
+Hạnh phúc mong manh
 Xa anh em tiếc chay vay
 
 Không biết làm răng đặng, cắn ngón tay đứng nhìn
