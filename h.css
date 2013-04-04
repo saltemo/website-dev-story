@@ -1,0 +1,7 @@
+HTML,BODY {cursor: url("http://lang.name.vn/css/st1.cur"), progress;}
+a:hover {cursor : url("http://lang.name.vn/css/st2.cur"), progress;}
+#xenplaza_toolbox {z-index: 99;width:26px;position:fixed;right:1px;top:250px;background: none;}
+#xenplaza_toolbox a:hover {opacity:1}
+#infos {font-family: Tahoma;font-weight:bold;}
+.sau {display:none;}
+input, textarea, select {color: #000;background:  #fff;    border-width:1px;border-style:solid;border-color:#88beff;    margin: 1px;    padding: 2px;	font-family: Tahoma;border-radius: 4px;}
