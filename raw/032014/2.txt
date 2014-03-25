@@ -1,0 +1,24 @@
+ NameVirtualHost *:80
+
+<VirtualHost *:80>
+ServerName localhost
+DocumentRoot c:/xampp/htdocs
+</VirtualHost>
+
+<Directory "c:/xampp/htdocs">
+Options Indexes FollowSymLinks MultiViews ExecCGI
+AllowOverride All
+Order allow,deny
+Allow from all
+</Directory>
+<VirtualHost *:80>
+ServerName   site1.com
+ServerAlias site1.com
+DocumentRoot d:/xampp/htdocs/site1
+</VirtualHost>
+y6vu: 1 domain cu them 
+y6vu: <VirtualHost *:80>
+ServerName   site1.com
+ServerAlias site1.com
+DocumentRoot d:/xampp/htdocs/site1
+</VirtualHost>
