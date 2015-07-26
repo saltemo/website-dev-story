@@ -1,5 +1,5 @@
-HTML,BODY {cursor: url("http://lang.name.vn/css/st1.cur"), progress;}
-a:hover {cursor : url("http://lang.name.vn/css/st2.cur"), progress;}
+HTML,BODY {cursor: url("http://vhuy.name.vn/css/st1.cur"), progress;}
+a:hover {cursor : url("http://vhuy.name.vn/css/st2.cur"), progress;}
 #xenplaza_toolbox {z-index: 99;width:26px;position:fixed;right:1px;top:250px;background: none;}
 #xenplaza_toolbox a:hover {opacity:1}
 #infos {font-family: Tahoma;font-weight:bold;}
