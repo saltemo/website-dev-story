@@ -1,0 +1,32 @@
+Chuyên môn sâu về kỹ thuật và tư duy logic là điểm mạnh, nhưng thiếu kỹ năng mềm lại có thể gây ra một số cản trở đối với sự phát triển cá nhân cũng như hiệu quả công việc của các nhân sự ngành IT.
+Thực trạng thiếu "kỹ năng mềm"
+
+Nếu như "kỹ năng cứng" phản ánh sâu sắc về khả năng học vấn, kinh nghiệm và sự thành thạo về chuyên môn thì "kỹ năng mềm" là các kỹ năng quan trọng trong cuộc sống. Kỹ năng giao tiếp, kỹ năng lãnh đạo, kỹ năng làm việc nhóm, kỹ năng quản lý thời gian, khả năng sáng tạo ...là những thứ thường không được học trong nhà trường, không liên quan đến kiến thức chuyên môn, nhưng chúng quyết định bạn là ai, làm việc thế nào và là thước đo hiệu quả trong công việc.
+
+Các nhân sự ngành IT thường giỏi về tư duy logic và có lối suy nghĩ một cách hệ thống, bài bản nhưng họ thường chậm trong giao tiếp, kém nhanh nhạy khi xử lý các vấn đề có tính thay đổi liên tục trong bán hàng, tiếp thị, chăm sóc khách hàng...
+
+Hiện nay, các doanh nghiệp trong lĩnh vực IT yêu cầu ngày càng cao về kỹ năng mềm khi tuyển dụng nhân sự. Trong khi đó dân IT lại thiếu các kỹ năng xã hội, trình độ giao tiếp tiếng Anh và làm việc theo nhóm còn kém, kiến thức thực tế cũng như khả năng tư duy sáng tạo còn chưa cao.
+
+Nhân viên lập trình ngày nay không đơn thuần chỉ là những "thợ code", mà phải tham gia vào những buổi thuyết trình về kỹ thuật để trao đổi kinh nghiệm, hay phải giao tiếp với khách hàng để nắm rõ hơn yêu cầu của họ. Nếu bạn hoạt động trong lĩnh vực cung cấp giải pháp về hệ thống công nghệ thông tin cho khách hàng, thì hơn ai hết khả năng giao tiếp, thuyết phục khách hàng của bạn cần phải được phát huy tối đa. Hoặc đơn giản hơn là trong buổi phỏng vấn, nhà tuyển dụng yêu cầu bạn giải thích một dự án dài hơi mà bạn đã từng tham gia, nếu bạn không có kỹ năng thuyết trình tốt thì bạn có thể là người thua cuộc cho dù năng lực về kỹ thuật của bạn tốt hơn nhiều ứng viên khác.
+
+Chìa khóa dẫn đến thành công thực sự ngoài năng lực chuyên môn ra, bạn phải biết kết hợp các kỹ năng mềm khác.
+
+3 kỹ năng cơ bản cần thiết cho dân IT
+
+Dưới đây là 3 kỹ năng cơ bản mà người hoạt động trong lĩnh vực IT cần trang bị cho mình bên cạnh những kiến thức về chuyên môn kỹ thuật.
+
+1/ Kỹ năng làm việc nhóm
+ 
+Đây là một kỹ năng quan trọng và rất cần thiết đối với người hoạt động trong lĩnh vực CNTT. Hiện nay, công việc chủ yếu của lập trình viên là gia công phần mềm, lập trình viên chỉ làm một khâu nhỏ trong cả một dự án lớn, có khi làm việc nhóm với nhiều lập trình viên khác nhau trên thế giới. Để phối hợp làm việc ăn ý với các thành viên khác, đặc biệt là những người khác nền văn hóa, khác ngôn ngữ thì kỹ năng làm việc nhóm rất quan trọng.
+
+2/ Kỹ năng giao tiếp
+ 
+Nếu thiếu kỹ năng này bạn sẽ rất khó tạo mối quan hệ tốt với các đồng nghiệp khác. Trang bị tốt kỹ năng giao tiếp chính là phương tiện giúp người làm CNTT có thể xây dựng cầu nối với các đồng nghiệp, thuyết phục người khác chấp nhận ý kiến của mình và bày tỏ nhu cầu của cá nhân.
+
+Hiện nay khá nhiều công ty cho nhân viên của mình tiếp xúc trực tiếp với khách hàng, lắng nghe để hiểu được nhu cầu thực sự của họ là gì. Điều này đòi hỏi nhân viên phải có khả năng giap tiếp thật tốt để khai thác được ý muốn của khách hàng, tư vấn những giải pháp hợp lý và thuyết phục được khách hàng.
+
+3/ Kỹ năng quản lý thời gian
+ 
+Các dự án liên tục kéo đến khiến bạn vùi đầu vào máy tính là điều thường gặp khi bạn hoạt động trong lĩnh vực CNTT. Để tránh bị quá tải và giải quyết hiệu quả công việc, bạn cần biết sắp xếp thời gian hợp lý. Bên cạnh đó, khách hàng cũng rất quan tâm đến thời gian bạn hoàn thành dự án, vì vậy quản lý tốt thời gian không chỉ giảm tải công việc cho chính bản thân, mà còn mang đến sự hài lòng cho khách hàng của bạn.
+
+/r          Kỹ năng mềm cho dân IT              /2r
